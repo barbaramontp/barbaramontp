@@ -1,7 +1,5 @@
 Hi, I’m @barbaramontp
-I’m interested in random forest and optimization solvers.
-Currently working within the energy industry.
-Would like to learn real state trend prediction and analysis.
+I’m interested in optimization solvers.
 
 <!---
 barbaramontp/barbaramontp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
